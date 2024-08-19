@@ -1,0 +1,17 @@
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\bilgi_yarismasi\bin\Debug\net8.0-windows\bilgi_yarismasi.exe
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\bilgi_yarismasi\bin\Debug\net8.0-windows\bilgi_yarismasi.deps.json
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\bilgi_yarismasi\bin\Debug\net8.0-windows\bilgi_yarismasi.runtimeconfig.json
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\bilgi_yarismasi\bin\Debug\net8.0-windows\bilgi_yarismasi.dll
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\bilgi_yarismasi\bin\Debug\net8.0-windows\bilgi_yarismasi.pdb
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\bilgi_yarismasi\obj\Debug\net8.0-windows\bilgi_yarismasi.Form1.resources
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\bilgi_yarismasi\obj\Debug\net8.0-windows\bilgi_yarismasi.Properties.Resources.resources
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\bilgi_yarismasi\obj\Debug\net8.0-windows\bilgi_yarismasi.csproj.GenerateResource.cache
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\bilgi_yarismasi\obj\Debug\net8.0-windows\bilgi_yarismasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\bilgi_yarismasi\obj\Debug\net8.0-windows\bilgi_yarismasi.AssemblyInfoInputs.cache
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\bilgi_yarismasi\obj\Debug\net8.0-windows\bilgi_yarismasi.AssemblyInfo.cs
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\bilgi_yarismasi\obj\Debug\net8.0-windows\bilgi_yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\bilgi_yarismasi\obj\Debug\net8.0-windows\bilgi_yarismasi.dll
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\bilgi_yarismasi\obj\Debug\net8.0-windows\refint\bilgi_yarismasi.dll
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\bilgi_yarismasi\obj\Debug\net8.0-windows\bilgi_yarismasi.pdb
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\bilgi_yarismasi\obj\Debug\net8.0-windows\bilgi_yarismasi.genruntimeconfig.cache
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\bilgi_yarismasi\obj\Debug\net8.0-windows\ref\bilgi_yarismasi.dll
